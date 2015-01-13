@@ -16,7 +16,7 @@ public static class Cipher
             private static string encryptMessage()
             {
                 string message = DataStore.UnencryptedMessage;
-                //message = addRandChars(message);
+                //message = addRandChars(message); //removed because add random character logic is flawed with ascii characters
                 message = message.Length < 20 ? addCharacters(message) : message;
                 message = rigText(message);
                 DataStore.CreateBlendArrs();
