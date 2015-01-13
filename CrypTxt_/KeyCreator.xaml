@@ -1,0 +1,55 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="CrypTxt_.KeyCreator"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+		<Grid.Background>
+    		<LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+    			<GradientStop Color="Black"/>
+    			<GradientStop Color="#FF000789" Offset="0.474"/>
+    			<GradientStop Color="Black" Offset="1"/>
+    		</LinearGradientBrush>
+    	</Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="WH1SPR" Style="{StaticResource PhoneTextNormalStyle}" Margin="0,0,11,0" Foreground="#FF766262" HorizontalAlignment="Right"/>
+            <TextBlock x:Name="lblKeyCreator" Tap="lblKeyCreator_Tap" Text="Key Wizard" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontStyle="Italic">
+                <TextBlock.Foreground>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="#FF03041F" Offset="0.289"/>
+            			<GradientStop Color="#FF4CADF0" Offset="1"/>
+            		</LinearGradientBrush>
+            	</TextBlock.Foreground>
+            </TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="10,0,14,0">
+            <TextBox x:Name="txtNewKey" HorizontalAlignment="Left" Height="378" Margin="-15,167,-15,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="486" Background="Transparent" FontSize="14.667" FontFamily="Arial" Foreground="#FF4CADF0" BorderBrush="White"/>
+            <TextBox x:Name="txtKeyName" HorizontalAlignment="Left" Height="69" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" Margin="206,72,-15,0" Background="Transparent" SelectionForeground="#FFF3EDED" Foreground="#FF4CADF0" BorderBrush="White"/>
+            <TextBlock Margin="79,90,0,0" TextWrapping="Wrap" Text="Key Name" VerticalAlignment="Top" Width="122" HorizontalAlignment="Left" FontSize="26.667" Foreground="#FF4CADF0"/>
+            <Button Content="Assign Key" Click="btnAssignKey_Click" HorizontalAlignment="Left" Margin="238,535,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.183,0.226" Width="218" BorderBrush="White" Foreground="#FF4CADF0"/>
+
+        </Grid>
+        <Button x:Name="btnGenerateKey" Content="Generate Key" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,10,0,0" Grid.Row="1" Background="Transparent" BorderBrush="White" Width="210" Click="btnGenerateKey_Click" Foreground="#FF4CADF0"/>
+        <Button x:Name="btnSaveKey" Content="Save Key" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="270,10,0,0" Grid.Row="1" Background="Transparent" BorderBrush="White" Width="210" Click="btnSaveKey_Click" Foreground="#FF4CADF0"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

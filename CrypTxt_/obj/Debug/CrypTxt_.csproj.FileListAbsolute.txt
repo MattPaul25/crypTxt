@@ -1,0 +1,76 @@
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.dll
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.pdb
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\resources.pri
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\AppxManifest.xml
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.build.appxrecipe
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\AppManifest.xaml
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt__Debug_AnyCPU.xap
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\App.g.cs
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\MainPage.g.cs
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.g.resources
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.Resources.AppResources.resources
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.dll
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.pdb
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\priconfig.xml
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\priconfig.xml.intermediate
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\layout.resfiles
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\layout.resfiles.intermediate
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\resources.resfiles
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\resources.resfiles.intermediate
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\pri.resfiles
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\pri.resfiles.intermediate
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\qualifiers.txt
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\qualifiers.txt.intermediate
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\ProjectArchitectures.txt
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\MDILProjectFiles.xml
+c:\users\matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\XapCacheFile.xml
+C:\Users\Matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\KeyCreator.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\KeySelection.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\CrypTxt_\CrypTxt_\obj\Debug\Groups.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.dll
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.pdb
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\resources.pri
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\AppxManifest.xml
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt_.build.appxrecipe
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\AppManifest.xaml
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\Bin\Debug\CrypTxt__Debug_AnyCPU.xap
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\App.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\Groups.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\KeyCreator.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\KeySelection.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\MainPage.g.cs
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.g.resources
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.Resources.AppResources.resources
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.dll
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\CrypTxt_.pdb
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\priconfig.xml
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\priconfig.xml.intermediate
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\layout.resfiles
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\layout.resfiles.intermediate
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\resources.resfiles
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\resources.resfiles.intermediate
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\pri.resfiles
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\pri.resfiles.intermediate
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\qualifiers.txt
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\ProjectArchitectures.txt
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\MDILProjectFiles.xml
+C:\Users\Matt\Desktop\myStuff\Programming\Projects\Projects\CrypTxt_\CrypTxt_\obj\Debug\XapCacheFile.xml
