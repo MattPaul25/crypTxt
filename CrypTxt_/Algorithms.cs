@@ -9,15 +9,17 @@ namespace CrypTxt_
 
 public static class Cipher
         {
+            //running encryption twice is not working...
             public static string CipherText()
             {
+               //public method to run hidden methods
                return encryptMessage();
             }
             private static string encryptMessage()
             {
                 string message = DataStore.UnencryptedMessage;
                 //message = addRandChars(message); //removed because add random character logic is flawed with ascii characters
-                message = message.Length < 20 ? addCharacters(message) : message;
+                //message = message.Length < 20 ? addCharacters(message) : message; //removed for reasons of not wanting to add trim command
                 message = rigText(message);
                 DataStore.CreateBlendArrs();
                 message = RunBlendEncryption(message, DataStore.LeftBlends);
@@ -34,6 +36,7 @@ public static class Cipher
             }
             private static string addRandChars(string message)
             {
+                //pulled due to creating conflicts with other characters (and having some non-allowable chars)
                 Random rand = new Random(Guid.NewGuid().GetHashCode());
                 int myLen = DataStore.privChars.Length - 1;
                 int i = 0;
@@ -51,6 +54,7 @@ public static class Cipher
             private static string addCharacters(string message)
             {
                 //places spaces infront or behind the test in order to create new ordinal positions for rig text
+                //pulled due to not wanting to run trim function at end
                 Random rand = new Random(Guid.NewGuid().GetHashCode());
                 int num = 20 - message.Length;
                 int i = 0;
@@ -73,6 +77,9 @@ public static class Cipher
             }
             private static string rigText(string SomeText)
             {
+                //responsible for changing the characters before any other ciphering happens
+                //changes by the placement the character is within the character array - 
+                //then moves the character by that in the character array in dataStore class
                 for (int i = 0; i < SomeText.Length; i++)
                 {
                     string myChar = SomeText.Substring(i, 1);
@@ -89,8 +96,10 @@ public static class Cipher
         }
 public static class Decipher
         {
+            //class that unravels the text baqsed on the key stored in data store
             public static string DecipherText()
             {
+                //public string to keep other portions of the code
                 return unEncryptMessage();
             }
             private static string unEncryptMessage()
@@ -200,8 +209,13 @@ public static class Decipher
         }
 public static class Blend
         {
+            //class is called from both cipher and decipher classes
+            //blending before character conversions
+            //each blend has a reverse (i.e. push has a pull) *swap is its own reverser
+            //dump the string in this class - spits out a blended string depending on the key
             public static string ChooseBlender(string Func, string message, int i)
             {
+                //function chooses which method to use based on the key created
                 switch (Func)
                 {
                     case "s":
@@ -228,6 +242,7 @@ public static class Blend
             }
             public static string ChooseReOrder(string Func, string message, int i)
             {
+                //funtion chooses reorder based on character in keys on front or back of key string
                 switch (Func)
                 {
                     case "s":
@@ -409,6 +424,8 @@ public static class Blend
         }
 public static class StaticFunctions
         {
+            //static utility class to do some basic text manipulation
+            //class is called from all other classes - does not call any classes though
             public static int Search(string yourString, string yourMarker, int yourInst = 1, bool caseSensitive = true)
             {
                 //returns the placement of a string in another string

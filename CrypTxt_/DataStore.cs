@@ -8,6 +8,7 @@ namespace CrypTxt_
 {
    public static class DataStore
     {
+        //class that stores data such as encryption key all the characters, key aspects like the right and left blends pull from the key string
         public static string[] privChars = { "ß", "§", "đ", "Œ", "ň", "Ŀ", "ç", "ƞ" };
         public static string[] cArray = {  "a", "b", "c", "d", "e", "f", "g", "h", ":",
                                            "i", "j", "k", "l", "m", "n", "o", "p", "#",
@@ -64,7 +65,6 @@ namespace CrypTxt_
         }
         public static void CreateArrs()
         {
-
             string EncKey = DataStore.EncryptionKey_Conversion;
             int uppBound = DataStore.cArray.Length;
             string[] cryptArray2 = new string[uppBound];
